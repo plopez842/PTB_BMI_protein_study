@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1008651890.svg)](https://doi.org/10.5281/zenodo.17880970)
+
 # PTB_BMI_protein_study
 Code and analysis pipeline for the manuscript:
 **Protein Networks are Influenced by Maternal BMI and Differentiate Preterm Birth Types (Lopez Zapana et al., 2025)**
